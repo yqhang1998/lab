@@ -1,0 +1,1 @@
+msk文件是买的，nkk和mskk文件是我自己写的，实现功能方面msk=nkk+mskk
